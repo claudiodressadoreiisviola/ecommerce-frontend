@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the ecommerce project",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiodressadoreiisviola/ecommerce-frontend.git"
+  },
+  "keywords": [
+    "react",
+    "bootstrap"
+  ],
+  "author": "Claudio Dressadore",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/claudiodressadoreiisviola/ecommerce-frontend/issues"
+  },
+  "homepage": "https://github.com/claudiodressadoreiisviola/ecommerce-frontend#readme"
+}
